@@ -15,3 +15,10 @@ I hope that I can get experience as а front end developer.
 
 ---
 
+### Skills 
+* HTML
+* CSS
+* Javascript
+* Git
+---
+
